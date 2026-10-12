@@ -18,12 +18,12 @@ This project analyzes **2.5M+ retail transactions across 2,500 households** from
 ### Page 1: Executive Retail Overview
 *High-level revenue health, basket economics, department distribution, weekly trajectory, and verified household demographic spending.*
 
-![Executive Overview](assets/overview_page.png)
+![Executive Overview](overview_page.png)
 
 ### Page 2: Category & Promotional Performance
 *Operational commodity velocity, markdown dependency analysis, and longitudinal National vs. Private brand trajectory.*
 
-![Category Performance](assets/category_page.png)
+![Category Performance](category_page.png)
 
 ---
 
